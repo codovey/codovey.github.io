@@ -2,9 +2,9 @@
 # Edit next line to provide your own name.
 title: Chloe Whitaker | Professional Portfolio
 # Edit next line, replacing 'techfolios' with your github username
-url: "https-codovey.github.io"
+url: "codovey"
 # Edit next line so that baseurl is "" if your repo is <username>.github.io
-baseurl: ""
+baseurl: "https://codovey.github.io"
 
 # OPTIONAL CHANGES
 ## Specify the theme using any of the css files in css/techfolio-theme
