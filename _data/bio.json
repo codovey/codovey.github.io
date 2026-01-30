@@ -11,8 +11,8 @@
     "profiles": [
       { "network": "github", "username": "codovey", "url": "http://github.com/codovey" },
       { "network": "linkedin", "username": "chloewhitaker", "url": "http://linkedin.com/in/chloewhitaker" },
-      { "network": "twitter", "username": "none", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "twitter", "username": "N/A", "url": "http://twitter.com/" },
+      { "network": "instagram", "username": "N/A", "url": "http://instagram.com/" }
     ]
   },
   "interests": [
@@ -42,6 +42,7 @@
       ]
     }
   ],
+  ---
   "work": [
     {
       "company": "",
@@ -66,7 +67,7 @@
       ]
     }
   ],
-  
+  ---
   "volunteer": [
     {
       "organization": "UH Manoa Health Services",
