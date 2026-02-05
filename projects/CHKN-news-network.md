@@ -12,7 +12,7 @@ summary: "A silly adlib style game from my AP Computer Science Principles class.
 ---
 ## THE NEWS ROOM IS A DISASTER!
 
-<img src="projects/CHKN.png" alt="Mayo and Amity" width="300" height="200">
+<img src="projects/CHKN.png" class="rounded float-start pe-4" alt="Mayo and Amity" width="300px">
 
 Or, that's what Cinnamon thinks at least.
 Her girlfriend and brother star as the anchors of the popular news channel, CHKN. Typically, their stories are fairly reliable, but lately all of their stories have been scrambled! It's up to the player to save the day and fill in the blanks.
