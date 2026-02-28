@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "H-T-M-Love of My Life"
 # All dates must be YYYY-MM-DD format!
-date: 2026-01-30
+date: 2026-02-27
 published: true
 labels:
   - Assignment
@@ -14,6 +14,8 @@ labels:
 From the moment I first touched HTML lessons... I didn't hate it, which is impressive! Java wasn't so fortunate. I survived it but never fully understood it. The basics of HTML, however, were lots of fun to mess around with. You could make an intentionally ugly yet functional website with ease.
 
 <img src="ratgUy.webp" class="rounded float-start p-4">
+
+Kind of like this guy! It's great.
 
 ## But Wait, There's More!
 It's cute that I thought I finally understood what was going on. 
@@ -28,4 +30,5 @@ As many in software engineering would wonder, why bother with Bootstrap 5? It's 
 With most programming languages and extensions, understanding how it works will help a LOT. I'm still in the process of learning how to group things nicely in Bootstrap to make items appear the way I want them to. The suffering is worth it because there are cute icons and pretty gradients for your navbar. :]
 
 ## My Dovest Reaction to Bootstrap
+<img src="BOB.jpg" class="rounded float-start p-4" width="50px">
 As for HTML, it's so nice and I could give it a kiss. I'm not a professional at using it, but it isn't very threatening. Bootstrap has lots of potential, but it takes much more work to figure out. It's good over all.
