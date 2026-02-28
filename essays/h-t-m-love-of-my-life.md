@@ -13,7 +13,8 @@ labels:
 
 From the moment I first touched HTML lessons... I didn't hate it, which is impressive! Java wasn't so fortunate. I survived it but never fully understood it. The basics of HTML, however, were lots of fun to mess around with. You could make an intentionally ugly yet functional website with ease.
 
-<img src="ratgUy.webp" class="rounded float-start p-4" height="200px"> Kind of like this guy! It's great.
+<img src="ratgUy.webp" class="rounded float-start p-4" height="200px"> 
+Kind of like this guy! It's great.
 
 ## But Wait, There's More!
 It's cute that I thought I finally understood what was going on. 
@@ -29,4 +30,5 @@ With most programming languages and extensions, understanding how it works will 
 
 ## My Dovest Reaction to Bootstrap
 As for HTML, it's so nice that I could give it a kiss. I'm not a professional at using it, but it isn't very threatening. Bootstrap has lots of potential, but it takes much more work to figure out. It's good over all.
+
 <img src="BOB.jpg" class="rounded float-start p-4" width="100px">
