@@ -18,7 +18,7 @@ Kind of like this guy! It's great.
 
 ## But Wait, There's More!
 It's cute that I thought I finally understood what was going on. 
-### Enter Bootstrap.
+**Enter Bootstrap.**
 The concept of Bootstrap 5 making it possible to create more complex websites is wonderful, as are most concepts, but I could not figure out how to get some things to work properly. It drives me insane!
 
 Making everything fit together the way you want it to is no easy feat when it comes to UI frameworks. When I was recreating the Velvet Caviar website, the place I bought my current phone case, the logo *refused* to align with the other navbar list items. AI could have fixed it, but I would never stoop so low. My distaste for AI can be a story for another time.
