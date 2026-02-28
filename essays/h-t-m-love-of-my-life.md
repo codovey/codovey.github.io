@@ -15,6 +15,7 @@ labels:
 From the moment I first touched HTML lessons... I didn't hate it, which is impressive! Java wasn't so fortunate. I survived it but never fully understood it. The basics of HTML, however, were lots of fun to mess around with. There are so many ways to adjust colors and fonts to achieve your website building dreams. The free practice website prompts you to build a cat photo website step by step. It was so cute that I was actually invested in it. Once you've gotten all of the basic skills down, you could make an intentionally ugly yet functional website with ease. 
 
 <img src="ratgUy.webp" height="200px"> 
+
 Kind of like this guy! It's great.
 
 ## But Wait, There's More!
@@ -32,7 +33,7 @@ As many in software engineering would wonder, why bother with Bootstrap 5? It's 
 With most programming languages and extensions, understanding how it works will help a LOT. I'm still in the process of learning how to group things nicely in Bootstrap to make items appear the way I want them to. The suffering is worth it because there are cute icons and pretty gradients for your navbar. :]
 
 ## My Dovest Reaction to Bootstrap
-<img src="BOB.jpg" class="rounded float-start p-4" width="100px">
+<img src="BOB.jpg" class="rounded float-start p-1" width="100px">
 As for HTML, it's so nice that I could give it a kiss. I'm not a professional at using it, but it isn't very threatening. Bootstrap has lots of potential, but it takes much more work to figure out. It's good over all.
 
 
