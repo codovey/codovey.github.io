@@ -37,3 +37,7 @@ Some possible mockup pages include:
 After implementing the basic functionality, here are ideas for more advanced features:
 * API Maps
 * Ratings and Reviews of each space 
+
+
+## The Concept:
+<img width="100px" class="rounded float-start pe-4" src="C:\Users\cagcb\Documents\GitHub\codovey.github.io\essays\studyspacesconcept.webp">
