@@ -43,3 +43,5 @@ After implementing the basic functionality, here are ideas for more advanced fea
 An Example of One Page of the Website:
 
 <img width="600px" src="studyspacesconcept.webp">
+
+It would make sense for the landing page to show the current day's study spaces. If you're new to the site, it's an easy way to find new people right away.
