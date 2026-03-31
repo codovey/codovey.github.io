@@ -31,7 +31,11 @@ Some possible mockup pages include:
 * Admin home page
 
 ## Use case ideas
-* Admins can delete any questionable postings
+* Users can create an account to post their study spaces - Create up to 5 per week
+* Users are able to click a button to show if they're interested in a space - Too many people in a room? Now you know!
+* Admins can delete any questionable postings - No hateful gatherings or extreme trolling (for obvious reasons)
+* Users may search for study locations based on their needs - quiet, empty, outdoors
+* Users have profiles to display their current semester classes - "Wait, you're in my class?"
 
 ## Beyond the basics
 After implementing the basic functionality, here are ideas for more advanced features:
