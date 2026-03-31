@@ -40,4 +40,4 @@ After implementing the basic functionality, here are ideas for more advanced fea
 
 
 ## The Concept:
-<img width="100px" class="rounded float-start pe-4" src="C:\Users\cagcb\Documents\GitHub\codovey.github.io\essays\studyspacesconcept.webp">
+<img width="300px" class="rounded float-start pe-4" src="studyspacesconcept.webp">
