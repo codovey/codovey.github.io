@@ -42,4 +42,4 @@ After implementing the basic functionality, here are ideas for more advanced fea
 ## The Concept
 An Example of One Page of the Website:
 
-<img width="600px" class="rounded float-start pe-4" src="studyspacesconcept.webp">
+<img width="600px" src="studyspacesconcept.webp">
