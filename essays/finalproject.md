@@ -41,4 +41,5 @@ After implementing the basic functionality, here are ideas for more advanced fea
 
 ## The Concept:
 <img width="600px" class="rounded float-start pe-4" src="studyspacesconcept.webp">
+
 An Example of One Page of the Website
