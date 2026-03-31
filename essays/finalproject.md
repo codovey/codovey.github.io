@@ -39,7 +39,7 @@ After implementing the basic functionality, here are ideas for more advanced fea
 * Ratings and Reviews of each space 
 
 
-## The Concept:
-<img width="600px" class="rounded float-start pe-4" src="studyspacesconcept.webp">
+## The Concept
+An Example of One Page of the Website:
 
-An Example of One Page of the Website
+<img width="600px" class="rounded float-start pe-4" src="studyspacesconcept.webp">
