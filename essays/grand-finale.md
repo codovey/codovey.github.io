@@ -22,5 +22,5 @@ HTML was my favorite thing ever and the only section where I completed both WODs
 ### Development Environments
 In this course, we mainly used two environments, Typescript Playground and VSCode. In a previous essay, I mentioned using Typescript felt much nicer than the super organized and class-filled Java. Typescript Playground was a nice website where you could type any kind of code without having to blow up your entire laptop... unless you imported an entire database list of text while trying to code. Typescript Playground is so cool that I was able to calculate a complicated math problem with a few lines of code. Yay for me! No new files or repositories, just code. Five stars. I thought VSCode was cool, too, aside from my previous (and constantly mentioned) Postgresql issues.
 
-
+#### A Regular Old Conclusion
 Did I learn a lot in this class? Not as much as some of my classmates due to my slight laziness, but for my own benefit, yes I did. Experience is the whole point of the class, and experience is what I got. I went through a real test of patience and had LOTS of practice over the course of the semester. I benefitted from this class in many ways, and I appreciate all the help I got from my classmates and amazing TA.
