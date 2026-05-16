@@ -15,12 +15,16 @@ Tracking the amount of work you put into a project lets other show how much effo
 
 My biggest issue was working in small amounts over a long period of time, which is hard to track. I can finish my issues by the given dates, but not having a finished product soon enough gives group members the opportunity to pick up my issue and work on it themselves. Then my work goes down the drain... Are unused assets still considered trackable coding efforts?
 
-## Very Professional Spreadsheets
-<img src="https://media.discordapp.net/attachments/1462703600315793572/1505096518456049744/image.png?ex=6a0961dd&is=6a08105d&hm=a37d86ecad17cace3b6a44f787da9e1c0f94d015c178fdf8319780f12e41ae3c&=&format=webp&quality=lossless&width=1850&height=570" width="400px" padding="10px"> 
-<img src="https://media.discordapp.net/attachments/1462703600315793572/1505096071376928788/image.png?ex=6a096172&is=6a080ff2&hm=b782b3ee0ff99add38616b590246a8c038e6427dee91938f06752fdc03dbb07e&=&format=webp&quality=lossless&width=1850&height=346" width="400px" padding="10px"> 
-<img src="https://media.discordapp.net/attachments/1462703600315793572/1505096518456049744/image.png?ex=6a0961dd&is=6a08105d&hm=a37d86ecad17cace3b6a44f787da9e1c0f94d015c178fdf8319780f12e41ae3c&=&format=webp&quality=lossless&width=1850&height=570" width="400px" padding="10px"> 
+### Very Professional Spreadsheets
+<img src="https://media.discordapp.net/attachments/1462703600315793572/1505096518456049744/image.png?ex=6a0961dd&is=6a08105d&hm=a37d86ecad17cace3b6a44f787da9e1c0f94d015c178fdf8319780f12e41ae3c&=&format=webp&quality=lossless&width=1850&height=570" width="600px" padding="10px"> 
 
-## Where Did I Really Go Wrong?
+<img src="https://media.discordapp.net/attachments/1462703600315793572/1505096071376928788/image.png?ex=6a096172&is=6a080ff2&hm=b782b3ee0ff99add38616b590246a8c038e6427dee91938f06752fdc03dbb07e&=&format=webp&quality=lossless&width=1850&height=346" width="600px" padding="10px"> 
+
+<img src="https://media.discordapp.net/attachments/1462703600315793572/1505096518456049744/image.png?ex=6a0961dd&is=6a08105d&hm=a37d86ecad17cace3b6a44f787da9e1c0f94d015c178fdf8319780f12e41ae3c&=&format=webp&quality=lossless&width=1850&height=570" width="600px" padding="10px"> 
+
+Jonell made these spreadsheets! Everyone filled in their own data at some point.
+
+### Where Did I Really Go Wrong?
 For M1, I thought our strategy of picking tasks best for each member and doing them when we had time was a good idea. I was slow, but I knew exactly what I was supposed to do.
 During our M1 presentation, the professor told us to not assign issues and pick them up as we go. That didn't work so well for me. I ended up doing less work than before since the tasks I thought were "easier" got taken.
 I did make many attempts on seeding the database, but I kept getting errors when terminal tried to put the data in. Ouch. At that point I had to give up on timing it.
