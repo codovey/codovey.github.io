@@ -20,7 +20,7 @@ My biggest issue was working in small amounts over a long period of time, which 
 
 <img src="https://media.discordapp.net/attachments/1462703600315793572/1505096071376928788/image.png?ex=6a096172&is=6a080ff2&hm=b782b3ee0ff99add38616b590246a8c038e6427dee91938f06752fdc03dbb07e&=&format=webp&quality=lossless&width=1850&height=346" width="600px" padding="10px"> 
 
-<img src="https://media.discordapp.net/attachments/1462703600315793572/1505096518456049744/image.png?ex=6a0961dd&is=6a08105d&hm=a37d86ecad17cace3b6a44f787da9e1c0f94d015c178fdf8319780f12e41ae3c&=&format=webp&quality=lossless&width=1850&height=570" width="600px" padding="10px"> 
+<img src="https://media.discordapp.net/attachments/1462703600315793572/1505096723515834438/image.png?ex=6a09620e&is=6a08108e&hm=6d15c09b9324044d6a9d97649aa45ab029450b7a24fb2cdae144e76dc8f0df5b&=&format=webp&quality=lossless&width=1850&height=371" width="600px" padding="10px"> 
 
 Jonell made these spreadsheets! Everyone filled in their own data at some point.
 
