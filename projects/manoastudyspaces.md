@@ -18,7 +18,7 @@ The premise was simple. We would make a website that provided students with nice
 
 Check out the project page <a href="https://manoa-study-spaces.github.io/">here</a> to see how it works.
 
-<img src="https://media.discordapp.net/attachments/1300389344514932820/1505475415484141668/image.png?ex=6a0ac2bd&is=6a09713d&hm=adc0f86952800d8c94bb5f781bc9a7e721ba056280cc92143a05aa44f0b72d53&=&format=webp&quality=lossless&width=1484&height=739" width="10rm">
+<img src="https://media.discordapp.net/attachments/1300389344514932820/1505475415484141668/image.png?ex=6a0ac2bd&is=6a09713d&hm=adc0f86952800d8c94bb5f781bc9a7e721ba056280cc92143a05aa44f0b72d53&=&format=webp&quality=lossless&width=1484&height=739" width="500rm">
 
 
 # My Contributions
@@ -31,5 +31,7 @@ I'm most proud of the bits of my graphic design skills I was able to implement i
 
 # A Learning Curve
 A lot of times, I was pretty slow with my work. I couldn't get previews to load since I always had issues with prisma, next.js, and postgres. I also stressed myself out by not doing all of my classwork as soon as possible, which delayed me even more. 
+
 I wish my team members could have spoken in person more often. Attendance didn't matter for the class, so we didn't always have every team member. Calling was an option, but it was difficult to make times work for everyone's schedules. I don't blame anyone for this. It's just the nature of remote group work that kind of stinks.
+
 I did learn a lot more about Next.js from this project than previous WODs. There was less of a time crunch, and I was able to explore all of the files nested in the template.
