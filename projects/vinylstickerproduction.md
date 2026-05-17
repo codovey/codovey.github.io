@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: "https://media.discordapp.net/attachments/1300389344514932820/1505482829818237068/IMG_8196.png?ex=6a0ac9a5&is=6a097825&hm=775252d7b5644e2029066cd20b28e2ce88073af30bdfa01a554e2328d634694b&=&format=webp&quality=lossless&width=864&height=864"
+image: "fatgUy.webp"
 title: "Manoa Study Spaces"
 date: 2021-2024
 published: true
