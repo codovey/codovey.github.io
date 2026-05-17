@@ -36,7 +36,7 @@
       "institution": "University of Hawaii, Honolulu, HI",
       "area": "Computer Science (expected Fall, 2027)",
       "studyType": "B.S.",
-      "startDate": "2024-08-??",
+      "startDate": "2024-08-26",
       "endDate": "Present",
       "courses": [
       ]
@@ -45,12 +45,12 @@
   
   "work": [
     {
-      "company": "",
-      "position": "",
+      "company": "ICS 390",
+      "position": "ATA for ICS 111",
       "website": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
+      "startDate": "2026-08-24",
+      "endDate": "?",
+      "summary": "will assist ICS 111 students for a specific lab section",
       "highlights": [
         ""
       ]
