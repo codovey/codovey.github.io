@@ -12,9 +12,9 @@ summary: "A piece of my graphic design experience from high school."
 ---
 
 # You can make your own stickers!!
-In my graphic design focus classes at Aiea High School, we had a few projects that involved making sticker designs. For this project, I'll showcase the one I made for our class shop.
+In my graphic design focus classes at Aiea High School, we had a few projects that involved making sticker and t-shirt designs. I made stickers for myself, Splatoon shirts, and other cool things. For this project, I'll showcase the sticker I made for our class shop.
 
-# Once Upon a Rooster...
+## Once Upon a Rooster...
 This is **fatgUy**. He is the high school's notoriously "ugly" yet charming rooster. It's mandatory that his name is capitalized in such an absurd way.
 
 <img src="https://media.discordapp.net/attachments/1220122064397140059/1489496697439649842/IMG_1927-compressed.jpg?ex=6a0aa366&is=6a0951e6&hm=ba7063a204bd436a5ef298bef7391228f666ecae78a3be518164b89276811d81&=&format=webp&width=400&height=864" height="400px">
