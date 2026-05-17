@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: "https://media.discordapp.net/attachments/1486117508124639280/1491907288569479398/StudySpacesLogo.png?ex=6a08dc6f&is=6a078aef&hm=9907db721e4f9ee2c7bc1f2e66fc35a760dbd68615beb87ec76b2dc50d9aabe0&=&format=webp&quality=lossless&width=1255&height=836"
+image: "projects/MSS_Icon.webp"
 title: "Manoa Study Spaces"
 date: 2026
 published: true
