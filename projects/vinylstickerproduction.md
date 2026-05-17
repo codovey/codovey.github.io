@@ -19,6 +19,9 @@ In my graphic design focus classes at Aiea High School, we had a few projects th
 <img src="https://media.discordapp.net/attachments/1220122064397140059/1489496697439649842/IMG_1927-compressed.jpg?ex=6a0aa366&is=6a0951e6&hm=ba7063a204bd436a5ef298bef7391228f666ecae78a3be518164b89276811d81&=&format=webp&width=400&height=864" height="150px" class="rounded float-start p-1">
 This is **fatgUy**. He is the high school's notoriously "ugly" yet charming rooster. It's mandatory that his name is capitalized in such an absurd way.
 
+
+
+
 # To the Crafting Table
 To craft a decal design of him, I used IbisPaint to draw him in three colors, matching the sticky vinyl supplies we had in class. It was inspired by a movie quote, "Fat guy in a little coat," my teacher mentioned. I exported the image to Adobe Illustrator on the school computers and created proper outlines so he could be cut from the vinyl. With a bit of assembly, he was real!
 
