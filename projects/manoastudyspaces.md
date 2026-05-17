@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: "projects/manoastudyspaces.md"
+image: "projects/StudySpacesLogo.webp"
 title: "Manoa Study Spaces"
 date: 2026
 published: true
