@@ -26,7 +26,7 @@ In my opinion, my teammates did most of the incredible work that made the websit
 
 I'm most proud of the bits of my graphic design skills I was able to implement into the project.
 
-<img src="projects/MSS_Icon.webp" height="100px" padding="10px"> 
+<img src="MSS_Icon.webp" height="100px" padding="10px"> 
 <img src="https://media.discordapp.net/attachments/1486117508124639280/1491907288569479398/StudySpacesLogo.png?ex=6a08dc6f&is=6a078aef&hm=9907db721e4f9ee2c7bc1f2e66fc35a760dbd68615beb87ec76b2dc50d9aabe0&=&format=webp&quality=lossless&width=1255&height=836" height="100px" padding="10px">
  <img src="https://media.discordapp.net/attachments/1486117508124639280/1501315291127353405/MSS_NoImage.png?ex=6a08cf52&is=6a077dd2&hm=491c51de3fea977410c4f37dcab41f41fcf19521838da291f888cba6d2474508&=&format=webp&quality=lossless&width=864&height=864" height="100px" padding="10px"> 
 

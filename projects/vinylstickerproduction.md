@@ -29,6 +29,6 @@ He became the muse for my project.
 # To the Crafting Table
 To craft a decal design of him, I used IbisPaint to draw him in three colors, matching the sticky vinyl supplies we had in class. It was inspired by a movie quote, "Fat guy in a little coat," my teacher mentioned. I exported the image to Adobe Illustrator on the school computers and created proper outlines so he could be cut from the vinyl. With a bit of assembly, he was real!
 
-<img src="projects/very cool sticker post.jpg" height="400px">
+<img src="very cool sticker post.jpg" height="400px">
 
 The main purpose of doing all of that was for the students to learn how to design, print, cut, assemble, then advertise vinyl decal stickers. The best part is I had plenty of fun doing it.
